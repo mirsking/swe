@@ -1,9 +1,9 @@
 {
-    "name": "Mirsking's Notebook as a Software Engineer"
-	"introduction": "作为软件开发工程师的一些笔记"
-	"path":{
-	    "content": "source",
-		"toc": "source/SUMMARY.md"
-		"readme": "source/README.md"
-	}
+  "name": "Mirsking's Notebook as a Software Engineer",
+  "introduction": "作为软件开发工程师的一些笔记",
+  "path":{
+      "content": "source",
+      "toc": "source/SUMMARY.md",
+      "readme": "source/README.md"
+    }
 }
