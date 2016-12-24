@@ -2,5 +2,8 @@
   "title": "Mirsking's Notebook as a Software Engineer",
   "description": "作为软件开发工程师的一些笔记",
   "author":"mirsking@gmail.com",
-  "root": "./source"
+  "root": "./source",
+  "theme-default": {
+    "showLevel": false
+  }
 }
