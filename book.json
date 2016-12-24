@@ -3,6 +3,9 @@
   "description": "作为软件开发工程师的一些笔记",
   "author":"mirsking@gmail.com",
   "root": "./source",
+  "github": {
+      "url": "https://github.com/mirsking/swe/"
+  },
   "theme-default": {
     "showLevel": false
   }
