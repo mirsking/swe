@@ -28,7 +28,7 @@ ssserver -d start
 lowid/ss-with-net-speeder:latest
 ssserver -p 8888-k 666666 -m aes-256-cfb
 ```
-![](http://static-res.ruyo.net/wp-content/uploads/2016/08/7.png)
+![](http://7xnluw.com1.z0.glb.clouddn.com/shadowsocks_arukas.png)
 
 
 ## My servers
