@@ -21,6 +21,7 @@
   * [Ubuntu打开休眠](ToolsConfiguration/UbuntuHiberate.md)
   * [Win10相关配置](ToolsConfiguration/Win10.md)
   * [Mac上使用Windows共享打印机](ToolsConfiguration/WindowsSharedPrinterOnMacos.md)
+  * [Mac上配置Python](ToolsConfiguration/BrewToInstallPythonAndPip.md)
   * [有道云笔记去广告](ToolsConfiguration/YoudaoNoteAdFree.md)
 
 * [游戏研发](GameDevelop/README.md)
