@@ -5,6 +5,14 @@
       * [指针与引用的区别](Languages/Cplusplus/Pointer/pointer_array_and_array_pointer.md)
       * [数组指针与指针数组](Languages/Cplusplus/Pointer/differences_between_pointer_and_reference.md)
 
+* [算法](Algorithms/README.md)
+  * [笔试面试必备算法——最长递增子序列](Algorithms/LIS.md)
+  * [笔试面试必备算法——字符串匹配算法](Algorithms/KMP.md)
+
+* [数据库](Database/README.md)
+  * [MySQL数据结构](Database/DataStructureOfMySQL.md)
+  * [MySQL基本操作](Database/OperationOfMySQL.md)
+
 * [工具配置](ToolsConfiguration/README.md)
   * [Caffe安装](ToolsConfiguration/CaffeInstallation.md)
   * [Dos与Linux文件格式](ToolsConfiguration/FileFormatOnWindowAndLinux.md)
@@ -23,13 +31,25 @@
   * [Mac上使用Windows共享打印机](ToolsConfiguration/WindowsSharedPrinterOnMacos.md)
   * [Mac上配置Python](ToolsConfiguration/BrewToInstallPythonAndPip.md)
   * [有道云笔记去广告](ToolsConfiguration/YoudaoNoteAdFree.md)
+  * [qtcreator显示项目中所有文件](ToolsConfiguration/qtcreatorShowAllFiles.md)
 
 * [游戏研发](GameDevelop/README.md)
   * [Unity3D](GameDevelop/Unity3D/README.md)
     * [Asserts商店](GameDevelop/Unity3D/AssertStores.md)
 
+* [GPU](GPU/README.md)
+  * [cuda并行编程](GPU/cuda.md)
+  * [PhysX](GPU/PhysX/README.md)
+    * [PhysX类结构](GPU/PhysX/ClassArchitecture.md)
+
 * [网络编程](NetworkProgramming/README.md)
   * [经典网络项目](NetworkProgramming/AwesomeNetworkProjects.md)
+  * [Nginx相关资料](NetworkProgramming/Nginx.md)
+  * [两种IO设计模式Reactor和Proactor](NetworkProgramming/ReactorAndProactor.md)
+
+* [Linux](Linux/README.md)
+  * [sh/bash/dash区别](Linux/ShBashDash.md)
+  * [查看动态库的symbols](Linux/CommandToShowSymbols.md)
 
 * [深度学习](DeepLearning/README.md)
   * [Kaggle比赛](DeepLearning/Kaggle.md)
