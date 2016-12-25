@@ -1,4 +1,6 @@
-## dos和unix文件
+# dos和unix文件区别及相互转换
+
+## 文件格式区别
 DOS/Windows和Linux/Unix的文件换行回车格式不同。
 基于 DOS/Windows 的文本文件在每一行末尾有一个 CR（回车）和 LF（换行），而 UNIX 文本只有一个换行。
 
@@ -6,9 +8,7 @@ DOS/Windows和Linux/Unix的文件换行回车格式不同。
 
 ## 文件格式转换
 
-
 ### 方法一
-
 
 vim打开后
 ```
@@ -17,7 +17,6 @@ vim打开后
 
 
 ### 方法二
-
 
 1. dos转unix
 

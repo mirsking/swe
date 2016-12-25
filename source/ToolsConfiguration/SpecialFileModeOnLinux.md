@@ -1,3 +1,5 @@
+# Linux上的特殊文件权限
+
 ## 常规文件权限
 
 | user | group | others |

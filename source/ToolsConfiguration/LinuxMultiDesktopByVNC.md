@@ -1,3 +1,5 @@
+# 多人共享Linux桌面
+
 ## VNC server
 ### 安装realvnc并破解
 
