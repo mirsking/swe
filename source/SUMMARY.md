@@ -41,6 +41,7 @@
   * [cuda并行编程](GPU/cuda.md)
   * [PhysX](GPU/PhysX/README.md)
     * [PhysX类结构](GPU/PhysX/ClassArchitecture.md)
+    * [Kinematic Actors间的碰撞检测](GPU/PhysX/CollisionWithKinematicActors.md)
 
 * [网络编程](NetworkProgramming/README.md)
   * [经典网络项目](NetworkProgramming/AwesomeNetworkProjects.md)
