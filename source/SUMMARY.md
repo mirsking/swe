@@ -5,6 +5,11 @@
       * [指针与引用的区别](Languages/Cplusplus/Pointer/pointer_array_and_array_pointer.md)
       * [数组指针与指针数组](Languages/Cplusplus/Pointer/differences_between_pointer_and_reference.md)
 
+  * [Python](Languages/Python/README.md)
+    * [String格式化](Languages/Python/StringFormat.md)
+    * [Iterator](Languages/Python/PythonIterator.md)
+    * [嵌套函数和闭包](Languages/Python/NestedFunAndClosure.md)
+
 * [算法](Algorithms/README.md)
   * [笔试面试必备算法——最长递增子序列](Algorithms/LIS.md)
   * [笔试面试必备算法——字符串匹配算法](Algorithms/KMP.md)
