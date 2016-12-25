@@ -28,7 +28,16 @@
   * [Unity3D](GameDevelop/Unity3D/README.md)
     * [Asserts商店](GameDevelop/Unity3D/AssertStores.md)
 
+* [网络编程](NetworkProgramming/README.md)
+  * [经典网络项目](NetworkProgramming/AwesomeNetworkProjects.md)
+
 * [深度学习](DeepLearning/README.md)
   * [Kaggle比赛](DeepLearning/Kaggle.md)
   * [学习Caffe](DeepLearning/LearningCaffe.md)
   * [对数损失](DeepLearning/LogisticLoss.md)
+
+* [其他](Others/README.md)
+  * [pthread](Others/pthread_create.md)
+  * [COM组件](Others/COM组件.md)
+  * [字符集](Others/CharacterSets.md)
+  * [再谈字符集](Others/CharacterSetsAgain.md)
