@@ -55,6 +55,7 @@
 
 * [操作系统](OS/README.md)
   * [进程与线程](OS/ProcessAndThread.md)
+  * [CPU调度算法](OS/CPUScheduleAlgorithm.md)
 
 * [设计模式](DesignPattern/README.md)
 
