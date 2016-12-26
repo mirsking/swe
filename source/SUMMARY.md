@@ -41,6 +41,8 @@
 * [操作系统](OS/README.md)
   * [进程与线程](OS/ProcessAndThread.md)
 
+* [设计模式](DesignPattern/README.md)
+
 * [游戏研发](GameDevelop/README.md)
   * [Unity3D](GameDevelop/Unity3D/README.md)
     * [Asserts商店](GameDevelop/Unity3D/AssertStores.md)
@@ -102,3 +104,5 @@
 * [TODO: 常用Linux命令](Linux/TODO_UsefulCmd.md)
 * [TODO: 内存池等](OS/TODO_Memory.md)
 * [TODO: 最小生成树](Languages/DataStructure/TODO_MinimumSpanningTree.md)
+* [TODO: 数据库的优化](Database/TODO_DatabaseOptimization.md)
+* [TODO: 设计模式](DesignPattern/TODO_DesignPattern.md)
