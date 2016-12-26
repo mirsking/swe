@@ -1,7 +1,6 @@
-# 最长递增子序列
+# 最长递增子序列(LIS)算法
 
-## 动态规划，时间复杂度$O(n^2)$
-
+## 动态规划， $O(n^2)$
 ```cpp
 int lengthOfLIS(vector<int>& nums) {
     int n = nums.size();
@@ -22,8 +21,14 @@ int lengthOfLIS(vector<int>& nums) {
     return max_len;
 }
 ```
+
 ## $O(nlogn)$
-参考博客[经典动态规划问题：最长递增子序列(LIS)](http://www.neozone.me/longest-increasing-subsequence.html)
+
+用ends数组存储，序列长度为len的最尾端元素。
+1. 当新插入的元素比len-1长度的尾端元素大，则直接更新为ends[len];
+2. 当新插入的元素比len-1长度的尾端元素小或等，则在ends中二分，找到哪个len_x对应的ends[len_x] >= val, 并将其更新为val.
+
+
 ```cpp
 class Solution {
 public:
@@ -46,7 +51,6 @@ public:
             {
                 int pos = findInsertPos(ends, len, val);
                 ends[pos] = val;
-
             }
 
         }
@@ -68,7 +72,6 @@ private:
                 return m;
         }
         return l;
-
     }
 };
 ```
