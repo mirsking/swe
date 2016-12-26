@@ -48,6 +48,7 @@
 
 * [分布式算法](DistributionAlgorithms/README.md)
   * [一致性hash算法](DistributionAlgorithms/ConsistentHash.md)
+  * [Docker学习笔记](DistributionAlgorithms/Docker.md)
 
 * [数据库](Database/README.md)
   * [MySQL数据结构](Database/DataStructureOfMySQL.md)
@@ -105,6 +106,14 @@
   * [Mac上配置Python](ToolsConfiguration/BrewToInstallPythonAndPip.md)
   * [有道云笔记去广告](ToolsConfiguration/YoudaoNoteAdFree.md)
   * [qtcreator显示项目中所有文件](ToolsConfiguration/qtcreatorShowAllFiles.md)
+  * [Openshift环境变量](ToolsConfiguration/OpenShiftEnv.md)
+  * [Ubuntu共享上网](ToolsConfiguration/UbuntuNatShareNetwork.md)
+  * [Ubuntu IPtable转发端口](ToolsConfiguration/PortConvert.md)
+  * [Vim快捷键](ToolsConfiguration/VimKeys.md)
+  * [修改Capslock为Esc按键](ToolsConfiguration/ChangeCapsLockWithEsc.md)
+  * [Linux上使用迅雷](ToolsConfiguration/LinuxThunder.md)
+  * [修改Ubuntu启动顺序](ToolsConfiguration/StartSeq.md)
+  * [Ubuntu防止某软件升级](ToolsConfiguration/UbuntuPreventSoftwareUpdate.md)
 
 * [深度学习](DeepLearning/README.md)
   * [Kaggle比赛](DeepLearning/Kaggle.md)
