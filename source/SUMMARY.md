@@ -21,6 +21,8 @@
     * [C++随机数生成器](Languages/Cplusplus/CplusplusRandomGenerator.md)
     * [匿名Namespace](Languages/Cplusplus/AnonymousNamespace.md)
     * [C++右值引用](Languages/Cplusplus/RightValue.md)
+    * [字符串常量与const](Languages/Cplusplus/ConstChar.md)
+    * [ValArray](Languages/Cplusplus/ValArray.md)
   * [Python](Languages/Python/README.md)
     * [String格式化](Languages/Python/StringFormat.md)
     * [Python函数参数传递](Languages/Python/TransferValueOrAddress.md)
