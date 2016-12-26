@@ -17,21 +17,23 @@
     * [构造函数与析构函数](Languages/Cplusplus/CtorAndDtor.md)
     * [面向对象三大特征](Languages/Cplusplus/OO.md)
     * [STL](Languages/Cplusplus/STL.md)
-
   * [Python](Languages/Python/README.md)
     * [String格式化](Languages/Python/StringFormat.md)
     * [Python函数参数传递](Languages/Python/TransferValueOrAddress.md)
     * [Iterator](Languages/Python/PythonIterator.md)
     * [嵌套函数和闭包](Languages/Python/NestedFunAndClosure.md)
-
+  * [数据结构](Languages/DataStructure/README.md)
+    * [链表](Languages/DataStructure/LinkList.md)
+    * [树、二叉树和森林](Languages/DataStructure/TreeAndBinaryTreeAndForest.md)
+    * [红黑树](Languages/DataStructure/RedBlackTree.md)
 * [算法](Algorithms/README.md)
   * [笔试面试必备算法——最长递增子序列](Algorithms/LIS.md)
   * [笔试面试必备算法——字符串匹配算法](Algorithms/KMP.md)
-
+* [分布式算法](DistributionAlgorithms/README.md)
+  * [一致性hash算法](DistributionAlgorithms/ConsistentHash.md)
 * [数据库](Database/README.md)
   * [MySQL数据结构](Database/DataStructureOfMySQL.md)
   * [MySQL基本操作](Database/OperationOfMySQL.md)
-
 * [工具配置](ToolsConfiguration/README.md)
   * [Caffe安装](ToolsConfiguration/CaffeInstallation.md)
   * [Dos与Linux文件格式](ToolsConfiguration/FileFormatOnWindowAndLinux.md)
@@ -51,31 +53,25 @@
   * [Mac上配置Python](ToolsConfiguration/BrewToInstallPythonAndPip.md)
   * [有道云笔记去广告](ToolsConfiguration/YoudaoNoteAdFree.md)
   * [qtcreator显示项目中所有文件](ToolsConfiguration/qtcreatorShowAllFiles.md)
-
 * [游戏研发](GameDevelop/README.md)
   * [Unity3D](GameDevelop/Unity3D/README.md)
     * [Asserts商店](GameDevelop/Unity3D/AssertStores.md)
-
 * [GPU](GPU/README.md)
   * [cuda并行编程](GPU/cuda.md)
   * [PhysX](GPU/PhysX/README.md)
     * [PhysX类结构](GPU/PhysX/ClassArchitecture.md)
     * [Kinematic Actors间的碰撞检测](GPU/PhysX/CollisionWithKinematicActors.md)
-
 * [网络编程](NetworkProgramming/README.md)
   * [经典网络项目](NetworkProgramming/AwesomeNetworkProjects.md)
   * [Nginx相关资料](NetworkProgramming/Nginx.md)
   * [两种IO设计模式Reactor和Proactor](NetworkProgramming/ReactorAndProactor.md)
-
 * [Linux](Linux/README.md)
   * [sh/bash/dash区别](Linux/ShBashDash.md)
   * [查看动态库的symbols](Linux/CommandToShowSymbols.md)
-
 * [深度学习](DeepLearning/README.md)
   * [Kaggle比赛](DeepLearning/Kaggle.md)
   * [学习Caffe](DeepLearning/LearningCaffe.md)
   * [对数损失](DeepLearning/LogisticLoss.md)
-
 * [其他](Others/README.md)
   * [pthread](Others/pthread_create.md)
   * [COM组件](Others/COM组件.md)
