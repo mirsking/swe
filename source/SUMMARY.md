@@ -17,6 +17,8 @@
     * [构造函数与析构函数](Languages/Cplusplus/CtorAndDtor.md)
     * [面向对象三大特征](Languages/Cplusplus/OO.md)
     * [STL](Languages/Cplusplus/STL.md)
+    * [Struct前置声明与Typedef](Languages/Cplusplus/StructTypedef.md)
+    * [C++随机数生成器](Languages/Cplusplus/CplusplusRandomGenerator.md)
   * [Python](Languages/Python/README.md)
     * [String格式化](Languages/Python/StringFormat.md)
     * [Python函数参数传递](Languages/Python/TransferValueOrAddress.md)
@@ -26,6 +28,7 @@
     * [链表](Languages/DataStructure/LinkList.md)
     * [树、二叉树和森林](Languages/DataStructure/TreeAndBinaryTreeAndForest.md)
     * [红黑树](Languages/DataStructure/RedBlackTree.md)
+    * [Python调用C++接口](Languages/Python/PythonCallCPlusplus.md)
 
 * [算法](Algorithms/README.md)
   * [数组相关算法](Algorithms/Array/README.md)
@@ -46,6 +49,7 @@
   * [TopK问题](Algorithms/TopK.md)
   * [海量数据算法](Algorithms/BigData.md)
   * [一些小技巧](Algorithms/Tricks.md)
+  * [大数乘法](Algorithms/BigNumberMulti.md)
 
 * [分布式算法](DistributionAlgorithms/README.md)
   * [一致性hash算法](DistributionAlgorithms/ConsistentHash.md)
@@ -88,6 +92,7 @@
   * [查看动态库的symbols](Linux/CommandToShowSymbols.md)
   * [Linux进程状态](Linux/LinuxProcessState.md)
   * [Ubuntu用户管理](Linux/UbuntuUsersConfig.md)
+  * [Linux中的信号](Linux/SingalInLinux.md)
 
 * [工具配置](ToolsConfiguration/README.md)
   * [Caffe安装](ToolsConfiguration/CaffeInstallation.md)

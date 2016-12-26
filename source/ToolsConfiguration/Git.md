@@ -13,3 +13,26 @@ git rebase -i <hash-of-commit-preceding-the-incorrect-one>(这里可以用要改
 ```
 git push --force
 ```
+
+## Git tag
+### 加tag
+#### 本地加tag
+```
+git tag -a v1.0 -m "version 1.0"
+```
+
+#### push tag到remote
+```
+git push --tag
+```
+
+### 删除tag
+#### 本地删除tag
+```
+git tag -d v1.0
+```
+
+#### remote删除tag
+```
+git push origin :refs/tags/v1.0
+```
