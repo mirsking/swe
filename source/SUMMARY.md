@@ -28,11 +28,12 @@
     * [Python函数参数传递](Languages/Python/TransferValueOrAddress.md)
     * [Iterator](Languages/Python/PythonIterator.md)
     * [嵌套函数和闭包](Languages/Python/NestedFunAndClosure.md)
+    * [Python调用C++接口](Languages/Python/PythonCallCPlusplus.md)
   * [数据结构](Languages/DataStructure/README.md)
     * [链表](Languages/DataStructure/LinkList.md)
     * [树、二叉树和森林](Languages/DataStructure/TreeAndBinaryTreeAndForest.md)
     * [红黑树](Languages/DataStructure/RedBlackTree.md)
-    * [Python调用C++接口](Languages/Python/PythonCallCPlusplus.md)
+    * [AVL树旋转操作](Languages/DataStructure/AVLTreeRotate.md)
 
 * [算法](Algorithms/README.md)
   * [数组相关算法](Algorithms/Array/README.md)
