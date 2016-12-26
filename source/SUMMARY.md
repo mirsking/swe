@@ -86,6 +86,7 @@
   * [sh/bash/dash区别](Linux/ShBashDash.md)
   * [查看动态库的symbols](Linux/CommandToShowSymbols.md)
   * [Linux进程状态](Linux/LinuxProcessState.md)
+  * [Ubuntu用户管理](Linux/UbuntuUsersConfig.md)
 
 * [工具配置](ToolsConfiguration/README.md)
   * [Caffe安装](ToolsConfiguration/CaffeInstallation.md)
@@ -114,6 +115,13 @@
   * [Linux上使用迅雷](ToolsConfiguration/LinuxThunder.md)
   * [修改Ubuntu启动顺序](ToolsConfiguration/StartSeq.md)
   * [Ubuntu防止某软件升级](ToolsConfiguration/UbuntuPreventSoftwareUpdate.md)
+  * [Git常用操作](ToolsConfiguration/Git.md)
+  * [GitLab备份与恢复](ToolsConfiguration/GitLab.md)
+  * [Doxygen使用记录](ToolsConfiguration/Doxygen.md)
+  * [Ubuntu设置squid代理](ToolsConfiguration/Squid.md)
+  * [免root权限访问USB](ToolsConfiguration/AccessUSBwithoutRoot.md)
+  * [Ubuntu安装Latex](ToolsConfiguration/UbuntuLatex.md)
+  * [Sublime安装配置](ToolsConfiguration/Sublime.md)
 
 * [深度学习](DeepLearning/README.md)
   * [Kaggle比赛](DeepLearning/Kaggle.md)
