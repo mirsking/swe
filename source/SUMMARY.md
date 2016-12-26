@@ -31,6 +31,7 @@
   * [数组相关算法](Algorithms/Array/README.md)
     * [二分法](Algorithms/Array/BinarySearch.md)
     * [排序算法](Algorithms/Array/SortAlgorithm.md)
+    * [外排序](Algorithms/Array/ExternalSort.md)
     * [查找唯一出现数字](Algorithms/Array/FindUnique.md)
     * [KSum](Algorithms/Array/KSum.md)
     * [洗牌算法](Algorithms/Array/ShuffleAlgorithm.md)
