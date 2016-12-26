@@ -13,7 +13,7 @@ def lazy_sum(*args):
         return ax
     return sum
 ```
-当lazy_sum返回函数sum时，相关参数和变量都保存在返回的函数中，这种称为“闭包（Closure）”的程序结构拥有极大的威力。
+当lazy_sum返回函数sum时，相关参数和变量都保存在返回的函数中，这种称为“**闭包（Closure）**”的程序结构拥有极大的威力。
 
 
 返回的是一个函数对象，

@@ -7,6 +7,7 @@
 
   * [Python](Languages/Python/README.md)
     * [String格式化](Languages/Python/StringFormat.md)
+    * [Python函数参数传递](Languages/Python/TransferValueOrAddress.md)
     * [Iterator](Languages/Python/PythonIterator.md)
     * [嵌套函数和闭包](Languages/Python/NestedFunAndClosure.md)
 
