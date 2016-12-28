@@ -89,6 +89,7 @@
   * [经典网络项目](NetworkProgramming/AwesomeNetworkProjects.md)
   * [Nginx相关资料](NetworkProgramming/Nginx.md)
   * [大小端与网络字节序](NetworkProgramming/BigEndian.md)
+  * [IO模型](NetworkProgramming/IOModel.md)
   * [IO多路复用](NetworkProgramming/IOMultiplexing.md)
   * [两种IO设计模式Reactor和Proactor](NetworkProgramming/ReactorAndProactor.md)
   * [并发测试](NetworkProgramming/ConcurrentTest.md)
