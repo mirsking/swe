@@ -55,6 +55,7 @@
   * [海量数据算法](Algorithms/BigData.md)
   * [一些小技巧](Algorithms/Tricks.md)
   * [大数乘法](Algorithms/BigNumberMulti.md)
+  * [常用加解密算法](Algorithms/EncryptionAndDecryptionAlgorithms.md)
 
 * [分布式算法](DistributionAlgorithms/README.md)
   * [一致性hash算法](DistributionAlgorithms/ConsistentHash.md)
