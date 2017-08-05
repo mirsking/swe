@@ -136,6 +136,7 @@
   * [免root权限访问USB](ToolsConfiguration/AccessUSBwithoutRoot.md)
   * [Ubuntu安装Latex](ToolsConfiguration/UbuntuLatex.md)
   * [Sublime安装配置](ToolsConfiguration/Sublime.md)
+  * [Mac 10.12安装PyQt4](ToolsConfiguration/InstallPyQt4OnMacSierra.md)
 
 * [深度学习](DeepLearning/README.md)
   * [Kaggle比赛](DeepLearning/Kaggle.md)
