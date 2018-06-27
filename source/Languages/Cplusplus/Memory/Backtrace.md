@@ -8,8 +8,8 @@ char *backtrace_symbols(void const *buffer, int size);
 void backtrace_symbols_fd(void const buffer, int size, int fd);
 ```
 
-* backtrace将调用栈地址返回到buffer中，size表示需要返回调用栈的最大深度；
-* backtrace_symbols将调用地址翻译成符号信息，存储到内部malloc的数组中并返回，注意返回的调用符号数组需要被调用者去free；
+* backtrace将调用栈地址返回到buffer中，size表示需要返回调用栈的最大深度；
+* backtrace_symbols将调用地址翻译成符号信息，存储到内部malloc的数组中并返回，注意返回的调用符号数组需要被调用者去free；
 * backtrace_symbols_fd将调用地址翻译成符号信息后直接输出到fd中。
 
 ## more readable backtrace
