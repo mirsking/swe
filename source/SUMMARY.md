@@ -1,4 +1,6 @@
 # Summary
+
+* [Introduction](README.md)
 * [语言](Languages/README.md)
   * [C++](Languages/Cplusplus/README.md)
     * [关键字](Languages/Cplusplus/Keywords/README.md)
@@ -35,7 +37,6 @@
     * [树、二叉树和森林](Languages/DataStructure/TreeAndBinaryTreeAndForest.md)
     * [红黑树](Languages/DataStructure/RedBlackTree.md)
     * [AVL树旋转操作](Languages/DataStructure/AVLTreeRotate.md)
-
 * [算法](Algorithms/README.md)
   * [数组相关算法](Algorithms/Array/README.md)
     * [二分法](Algorithms/Array/BinarySearch.md)
@@ -57,31 +58,24 @@
   * [一些小技巧](Algorithms/Tricks.md)
   * [大数乘法](Algorithms/BigNumberMulti.md)
   * [常用加解密算法](Algorithms/EncryptionAndDecryptionAlgorithms.md)
-
 * [分布式算法](DistributionAlgorithms/README.md)
   * [一致性hash算法](DistributionAlgorithms/ConsistentHash.md)
   * [Docker学习笔记](DistributionAlgorithms/Docker.md)
-
 * [数据库](Database/README.md)
   * [MySQL数据结构](Database/DataStructureOfMySQL.md)
   * [MySQL基本操作](Database/OperationOfMySQL.md)
-
 * [操作系统](OS/README.md)
   * [进程与线程](OS/ProcessAndThread.md)
   * [CPU调度算法](OS/CPUScheduleAlgorithm.md)
-
 * [设计模式](DesignPattern/README.md)
-
 * [游戏研发](GameDevelop/README.md)
   * [Unity3D](GameDevelop/Unity3D/README.md)
     * [Asserts商店](GameDevelop/Unity3D/AssertStores.md)
-
 * [GPU](GPU/README.md)
   * [cuda并行编程](GPU/cuda.md)
   * [PhysX](GPU/PhysX/README.md)
     * [PhysX类结构](GPU/PhysX/ClassArchitecture.md)
     * [Kinematic Actors间的碰撞检测](GPU/PhysX/CollisionWithKinematicActors.md)
-
 * [网络编程](NetworkProgramming/README.md)
   * [TCP/IP](NetworkProgramming/TCPIP/README.md)
     * [TCP/IP五层协议](NetworkProgramming/TCPIP/TcpIpProtocol.md)
@@ -95,14 +89,12 @@
   * [IO多路复用](NetworkProgramming/IOMultiplexing.md)
   * [两种IO设计模式Reactor和Proactor](NetworkProgramming/ReactorAndProactor.md)
   * [并发测试](NetworkProgramming/ConcurrentTest.md)
-
 * [Linux](Linux/README.md)
   * [sh/bash/dash区别](Linux/ShBashDash.md)
   * [查看动态库的symbols](Linux/CommandToShowSymbols.md)
   * [Linux进程状态](Linux/LinuxProcessState.md)
   * [Ubuntu用户管理](Linux/UbuntuUsersConfig.md)
   * [Linux中的信号](Linux/SingalInLinux.md)
-
 * [工具配置](ToolsConfiguration/README.md)
   * [Caffe安装](ToolsConfiguration/CaffeInstallation.md)
   * [Dos与Linux文件格式](ToolsConfiguration/FileFormatOnWindowAndLinux.md)
@@ -138,18 +130,15 @@
   * [Ubuntu安装Latex](ToolsConfiguration/UbuntuLatex.md)
   * [Sublime安装配置](ToolsConfiguration/Sublime.md)
   * [Mac 10.12安装PyQt4](ToolsConfiguration/InstallPyQt4OnMacSierra.md)
-
-* [深度学习](DeepLearning/README.md)
+* [机器学习](DeepLearning/README.md)
   * [Kaggle比赛](DeepLearning/Kaggle.md)
   * [学习Caffe](DeepLearning/LearningCaffe.md)
   * [对数损失](DeepLearning/LogisticLoss.md)
-
 * [其他](Others/README.md)
   * [pthread](Others/pthread_create.md)
   * [COM组件](Others/COM组件.md)
   * [字符集](Others/CharacterSets.md)
   * [再谈字符集](Others/CharacterSetsAgain.md)
-
 * [TODO: 常用Linux命令](Linux/TODO_UsefulCmd.md)
 * [TODO: 内存池等](OS/TODO_Memory.md)
 * [TODO: 最小生成树](Languages/DataStructure/TODO_MinimumSpanningTree.md)
@@ -158,3 +147,4 @@
 * [TODO: 查找中位数](Algorithms/Array/TODO_FindMediam.md)
 * [TODO: 最大和子串](Algorithms/Array/TODO_MaxSumSubSeq.md)
 * [TODO: 最频繁字符串](Algorithms/String/TODO_FindTopString.md)
+
