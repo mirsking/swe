@@ -136,6 +136,7 @@
   * [Kaggle比赛](MachineLearning/Kaggle.md)
   * [马尔科夫](MachineLearning/Markov.md)
 * [其他](Others/README.md)
+  * [微信红包架构](Others/WeChatRedEnvelop.md)
   * [pthread](Others/pthread_create.md)
   * [COM组件](Others/COM组件.md)
   * [字符集](Others/CharacterSets.md)
