@@ -127,3 +127,8 @@ JVM将堆分成新生代和老年代，从而可以在不同代中使用不同�
 * -XX:PretensureSizeThreshhold 控制超过某大小的内存分配直接在老年代中进行。该参数只对Serial和ParNew两款收集器有效。
 
 * -XX:MaxTenuringThreshold 对象从新生代晋升到老年代的阈值年龄。
+
+
+## Java GC问题处理
+
+[JVM问题分析处理手册](https://zhuanlan.zhihu.com/p/43435903)
