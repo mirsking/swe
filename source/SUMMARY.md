@@ -32,6 +32,8 @@
     * [Iterator](Languages/Python/PythonIterator.md)
     * [嵌套函数和闭包](Languages/Python/NestedFunAndClosure.md)
     * [Python调用C++接口](Languages/Python/PythonCallCPlusplus.md)
+  * [Java](Languages/Java/README.md)
+    * [JavaGC浅析](Languages/Java/JavaGC.md)
   * [数据结构](Languages/DataStructure/README.md)
     * [链表](Languages/DataStructure/LinkList.md)
     * [树、二叉树和森林](Languages/DataStructure/TreeAndBinaryTreeAndForest.md)
