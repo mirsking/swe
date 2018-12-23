@@ -132,6 +132,7 @@
   * [Ubuntu安装Latex](ToolsConfiguration/UbuntuLatex.md)
   * [Sublime安装配置](ToolsConfiguration/Sublime.md)
   * [Mac 10.12安装PyQt4](ToolsConfiguration/InstallPyQt4OnMacSierra.md)
+  * [macOS 10.14 配置python环境](ToolsConfiguration/macPythonEnv.md)
 * [机器学习](MachineLearning/README.md)
   * [学习Caffe](MachineLearning/LearningCaffe.md)
   * [对数损失](MachineLearning/LogisticLoss.md)
