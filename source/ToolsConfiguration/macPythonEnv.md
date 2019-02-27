@@ -35,4 +35,14 @@ pip install oss4blog
 启动`oss4blog`时会报错，`from oss4blog.oss4blog import main`，解决方案：
 ```
 rm ~/.pyenv/versions/2.7.15/bin/oss4blog.py*
+
+```
+
+### 安装matplotlib
+matplotlib依赖thinker，需要先安装系统tcl/tk库，然后再重新pyenv install
+```
+# mac
+brew install tcl-tk
+# ubuntu
+sudo apt-get install tk-dev
 ```

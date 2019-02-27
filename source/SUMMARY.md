@@ -26,6 +26,8 @@
     * [C++右值引用](Languages/Cplusplus/RightValue.md)
     * [字符串常量与const](Languages/Cplusplus/ConstChar.md)
     * [ValArray](Languages/Cplusplus/ValArray.md)
+    * [Lambda](Languages/Cplusplus/Lambda/README.md)
+      * [AOP with C++ 11](Lanaguages/Cplusplus/Lambda/high_order_function_aop.md)
   * [Python](Languages/Python/README.md)
     * [String格式化](Languages/Python/StringFormat.md)
     * [Python函数参数传递](Languages/Python/TransferValueOrAddress.md)
